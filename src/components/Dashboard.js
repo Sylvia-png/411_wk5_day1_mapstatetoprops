@@ -7,7 +7,7 @@ import {
     TableHead,
     TableRow
 } from '@material-ui/core'
-//import cars from '../cars.json' // remove this
+
 
 const Dashboard = (props) => {
     return (

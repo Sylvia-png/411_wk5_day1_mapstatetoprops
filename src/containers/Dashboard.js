@@ -3,7 +3,8 @@ import Dashboard from '../components/Dashboard'
 
 const mapStateToProps = (state) => {
     return {
-        cars: state.cars
+        cars: state.cars,
+        user: state.user
     }
 }
 
